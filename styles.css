@@ -1,0 +1,10 @@
+.my-card {
+    box-shadow: 0 4px 8px grey;
+}
+
+.footerbar {
+    background-color: #e1ac0d;
+    margin-top: 0;
+    padding: 10px;
+    color: #fff;
+}
